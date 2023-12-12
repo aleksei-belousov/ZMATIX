@@ -1,6 +1,0 @@
- implementation abstract;
- define behavior for ZRAP_ZC_ITEM_005
-  etag master ETAG__ETAG
- {
-  update;
- }
